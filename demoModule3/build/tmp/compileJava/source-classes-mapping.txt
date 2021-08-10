@@ -1,0 +1,18 @@
+Model/Customer.java
+ Model.Customer
+Dao/ManageCustomer.java
+ Dao.ManageCustomer
+service/CustomerService.java
+ service.CustomerService
+Dao/ConnectionSql.java
+ Dao.ConnectionSql
+Controller/CustomerServlet.java
+ Controller.CustomerServlet
+Model/NhanVien.java
+ Model.NhanVien
+Dao/ManageNhanVien.java
+ Dao.ManageNhanVien
+service/NhanVienService.java
+ service.NhanVienService
+Controller/NhanVienServlet.java
+ Controller.NhanVienServlet
